@@ -9,13 +9,13 @@ Site da APIsec University: **https://www.apisecuniversity.com/**
 
 Artigos que produzi sobre alguns desses treinamentos/certificações:
 
-[Certificação Gratuita: OWASP API Security Top 10**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-owasp-api-security-top-10-49187dadd141)
+[**Certificação Gratuita: OWASP API Security Top 10**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-owasp-api-security-top-10-49187dadd141)
 
-[Certificação Gratuita: API Security Fundamentals**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-api-security-fundamentals-40ff8a8f2eb0)
+[**Certificação Gratuita: API Security Fundamentals**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-api-security-fundamentals-40ff8a8f2eb0)
 
-[Certificação Gratuita: API Gateway Security Best Practices**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-api-gateway-security-best-practices-feb18932d4a5)
+[**Certificação Gratuita: API Gateway Security Best Practices**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-api-gateway-security-best-practices-feb18932d4a5)
 
-[Certificação Gratuita em Inteligência Artificial: Securing LLM & NLP APIs**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-em-intelig%C3%AAncia-artificial-securing-llm-nlp-apis-bd8446c38a70)
+[**Certificação Gratuita em Inteligência Artificial: Securing LLM & NLP APIs**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-em-intelig%C3%AAncia-artificial-securing-llm-nlp-apis-bd8446c38a70)
 
 ## OAuth Tools
 
